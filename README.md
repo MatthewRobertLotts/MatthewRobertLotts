@@ -1,24 +1,25 @@
-# Hi, I'm Matt 👋
+# Matthew Lotts
 
-I build practical tools for trading-card sellers and run **SaveRoom**, a UK Pokémon/TCG live-selling business focused on honest streams, clean fulfilment, and no gambling-style gimmicks.
+Application support professional moving into software development. I work across support, automation, data, and practical product tooling — the kind of work where understanding the user problem matters as much as writing the code.
 
-## What I'm working on
+I’m strongest where technical support meets development: tracing issues, improving workflows, documenting clearly, and building small tools that remove repeated manual work.
 
-- 🃏 **SaveRoom** — UK TCG live streams, community sales, Shopify, and operations
-- 📱 **Scanner app** — Flutter frontend for card lookup, pricing, inventory, and seller workflows
-- 🧠 **Pokémon card database/API** — canonical card, set, SKU, image, and pricing foundation for SaveRoom tools
-- 🤖 **AI-assisted operations** — Obsidian + Hermes workflows to turn a solo business into a repeatable system
+## What I work with
 
-## Tech I use
+- **Languages:** Python, TypeScript, Dart
+- **App/API:** Flutter, FastAPI, REST APIs, SQLite
+- **Systems:** Linux, Git, GitHub Actions, automation workflows
+- **Strengths:** troubleshooting, root-cause analysis, user support, process improvement, technical documentation
 
-`Python` · `TypeScript` · `Flutter/Dart` · `FastAPI` · `SQLite` · `GitHub Actions` · `Linux` · `Obsidian`
+## Current direction
 
-## Current focus
+I’m focused on becoming a well-rounded junior developer with a strong support background: reliable, practical, good with users, and comfortable taking messy real-world problems from “something is broken” to a clear fix.
 
-Building boring, useful software that removes manual work: better search, cleaner card data, reliable images, pricing intelligence, and stock/fulfilment flows that survive real weekend streams.
+## Projects
 
-## Links
+My public work includes business automation, data/API experiments, and application prototypes. Some projects are tied to trading-card workflows, but the core skills are general: data modelling, search, API design, UI workflows, testing, and operational tooling.
 
-- 🌐 SaveRoom: https://saveroom.co.uk
-- 🛒 WhatNot / socials: `@saveroomlive`
-- 💼 LinkedIn: https://www.linkedin.com/in/matthewlotts
+## Contact
+
+- LinkedIn: https://www.linkedin.com/in/matthewlotts
+- Website: https://saveroom.co.uk
