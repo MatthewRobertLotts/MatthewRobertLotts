@@ -1,25 +1,44 @@
 # Matthew Lotts
 
-Application support professional moving into software development. I work across support, automation, data, and practical product tooling — the kind of work where understanding the user problem matters as much as writing the code.
+## Technical Profile
 
-I’m strongest where technical support meets development: tracing issues, improving workflows, documenting clearly, and building small tools that remove repeated manual work.
+Application Support Lead with a broad technical background across automation, business systems, scripting, SQL, cloud administration, web technologies, AI-assisted development, 3D/game tooling, media production, and hardware projects.
 
-## What I work with
+I work best at the point where real business problems meet technical delivery: understanding how a process actually works, finding the weak points, and building practical fixes that make systems faster, clearer, and easier to support.
 
-- **Languages:** Python, TypeScript, Dart
-- **App/API:** Flutter, FastAPI, REST APIs, SQLite
-- **Systems:** Linux, Git, GitHub Actions, automation workflows
-- **Strengths:** troubleshooting, root-cause analysis, user support, process improvement, technical documentation
+## Core Strengths
 
-## Current direction
+- Business process automation and systems support
+- Root-cause troubleshooting and incident ownership
+- PowerShell scripting for Microsoft 365, Azure, Entra, and tenant-wide administration
+- SQL solution design, deployment support, and data-led problem solving
+- JavaScript, HTML, and form/workflow development
+- Financial automation support and maintenance across enterprise systems
+- Technical documentation, user support, and process improvement
+- AI-assisted software development using local models, APIs, coding agents, and automation tools
 
-I’m focused on becoming a well-rounded junior developer with a strong support background: reliable, practical, good with users, and comfortable taking messy real-world problems from “something is broken” to a clear fix.
+## Current Work
 
-## Projects
+Application Support Lead in local government, supporting and improving business-critical systems and automations.
 
-My public work includes business automation, data/API experiments, and application prototypes. Some projects are tied to trading-card workflows, but the core skills are general: data modelling, search, API design, UI workflows, testing, and operational tooling.
+Current responsibilities include maintaining financial automations, creating SQL-backed solutions, scripting against Microsoft cloud services, supporting GOSS forms, handling administration and service requests, and improving workflows used across the organisation.
 
-## Contact
+## Technical Range
 
-- LinkedIn: https://www.linkedin.com/in/matthewlotts
-- Website: https://saveroom.co.uk
+- **Scripting and automation:** PowerShell, JavaScript, Python
+- **Web and forms:** HTML, JavaScript, GOSS forms
+- **Data:** SQL, SQLite, reporting, data modelling
+- **Microsoft ecosystem:** Microsoft 365, Azure, Entra, tenant administration
+- **Development:** TypeScript, Dart, Flutter, FastAPI, REST APIs, Git, GitHub
+- **AI tooling:** Claude Code, OpenHands/OpenClaw-style workflows, Hermes, API-hosted models, local models
+- **Creative technical background:** game design, 3D modelling, engine work, music/video editing, special effects, and hardware projects
+
+## Background
+
+I have been building, repairing, experimenting with, and learning computers from a young age. My route into technology has covered formal study in game design at college and university level, self-directed software and hardware projects, creative production, enterprise application support, and modern AI-assisted development.
+
+That mix gives me a practical technical base: I can talk to users, trace broken processes, write scripts, understand data, work with systems, and build useful tools without losing sight of the real problem.
+
+## Focus
+
+I am focused on practical technical delivery: reliable systems, useful automation, clear support processes, better internal tools, and software that solves real operational problems.
