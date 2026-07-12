@@ -2,43 +2,41 @@
 
 ## Technical Profile
 
-Application Support Lead with a broad technical background across automation, business systems, scripting, SQL, cloud administration, web technologies, AI-assisted development, 3D/game tooling, media production, and hardware projects.
+Application Support Lead with a strong automation, systems, scripting, SQL, Microsoft cloud, and AI-assisted development background.
 
-I work best at the point where real business problems meet technical delivery: understanding how a process actually works, finding the weak points, and building practical fixes that make systems faster, clearer, and easier to support.
+I specialise in turning messy operational problems into reliable tools, scripts, workflows, and supportable systems. My strength is the full path from user problem to working fix: understand the process, trace the failure, automate the repeatable parts, document the result, and keep it maintainable.
+
+## AI and Automation Focus
+
+I have spent the last year working heavily with AI tooling, coding agents, local models, hosted APIs, and AI-assisted application development. I use AI practically: not as a novelty, but as a way to speed up investigation, generate and review code, automate workflows, analyse data, and build working tools faster.
 
 ## Core Strengths
 
-- Business process automation and systems support
-- Root-cause troubleshooting and incident ownership
+- AI-assisted software development and workflow automation
 - PowerShell scripting for Microsoft 365, Azure, Entra, and tenant-wide administration
-- SQL solution design, deployment support, and data-led problem solving
+- SQL solution design, deployment support, and data-led troubleshooting
 - JavaScript, HTML, and form/workflow development
 - Financial automation support and maintenance across enterprise systems
+- Business process analysis, root-cause troubleshooting, and incident ownership
 - Technical documentation, user support, and process improvement
-- AI-assisted software development using local models, APIs, coding agents, and automation tools
+- Broad creative technical background across 3D, game engines, media, special effects, and hardware projects
 
 ## Current Work
 
 Application Support Lead in local government, supporting and improving business-critical systems and automations.
 
-Current responsibilities include maintaining financial automations, creating SQL-backed solutions, scripting against Microsoft cloud services, supporting GOSS forms, handling administration and service requests, and improving workflows used across the organisation.
+Current work includes maintaining financial automations, creating SQL-backed solutions, scripting against Microsoft cloud services, supporting GOSS forms, handling administration and service requests, and improving workflows used across the organisation.
 
 ## Technical Range
 
+- **AI tooling:** Claude Code, Hermes, local models, hosted model APIs, coding agents, prompt/workflow design
 - **Scripting and automation:** PowerShell, JavaScript, Python
+- **Microsoft ecosystem:** Microsoft 365, Azure, Entra, tenant administration
 - **Web and forms:** HTML, JavaScript, GOSS forms
 - **Data:** SQL, SQLite, reporting, data modelling
-- **Microsoft ecosystem:** Microsoft 365, Azure, Entra, tenant administration
 - **Development:** TypeScript, Dart, Flutter, FastAPI, REST APIs, Git, GitHub
-- **AI tooling:** Claude Code, OpenHands/OpenClaw-style workflows, Hermes, API-hosted models, local models
-- **Creative technical background:** game design, 3D modelling, engine work, music/video editing, special effects, and hardware projects
-
-## Background
-
-I have been building, repairing, experimenting with, and learning computers from a young age. My route into technology has covered formal study in game design at college and university level, self-directed software and hardware projects, creative production, enterprise application support, and modern AI-assisted development.
-
-That mix gives me a practical technical base: I can talk to users, trace broken processes, write scripts, understand data, work with systems, and build useful tools without losing sight of the real problem.
+- **Creative technical:** game design, 3D modelling, engine work, music/video editing, special effects, hardware builds
 
 ## Focus
 
-I am focused on practical technical delivery: reliable systems, useful automation, clear support processes, better internal tools, and software that solves real operational problems.
+I am aiming my work toward AI-enabled development and automation roles: building practical internal tools, improving business systems, reducing manual work, and using AI to deliver faster without losing quality, security, or maintainability.
