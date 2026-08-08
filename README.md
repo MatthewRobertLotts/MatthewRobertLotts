@@ -1,8 +1,8 @@
 # Matthew Lotts
 
-AI-focused automation developer building internal tools, APIs, and workflow systems.
+Automation developer building internal tools, APIs, and practical AI-assisted workflow systems.
 
-I turn messy operational problems into working software: Microsoft 365 automation, SQL-backed tools, FastAPI services, Flutter frontends, and AI-assisted workflows.
+I turn messy operational problems into working software: Microsoft 365 automation, SQL-backed tools, FastAPI services, Flutter frontends, and practical AI-assisted workflows.
 
 ## Proof
 
@@ -21,10 +21,11 @@ AI application development roles where the work is practical: build the tool, co
 | [M365 Storage Optimiser](https://github.com/MatthewRobertLotts/m365-storage-optimiser) | PowerShell, Graph API, Entra ID auth, operational automation, measurable business impact |
 | [SaveRoom Pokémon Card Database API](https://github.com/MatthewRobertLotts/SaveRoom-Pokemon-Database-API) | FastAPI, SQLite, OpenAPI, auth, pricing data, inventory workflows, tests |
 | [SaveRoom Scanner App](https://github.com/MatthewRobertLotts/SaveRoom-Scanner-App) | Flutter frontend, API integration, fixture-driven development, mobile app UX |
+| [SaveRoom AI Runtime](https://github.com/MatthewRobertLotts/saveroom-ai-runtime) | TypeScript AI workflow experiments, structured draft demo, human approval boundaries |
 
 ## Technical range
 
-- **AI tooling:** coding agents, local models, hosted model APIs, prompt/workflow design
+- **AI tooling:** coding agents, local models, hosted model APIs, structured workflow design
 - **Backend:** Python, FastAPI, REST APIs, SQLite, OpenAPI
 - **Frontend/app:** Flutter, Dart, HTML, CSS, JavaScript, TypeScript
 - **Automation:** PowerShell, Microsoft Graph, Entra ID, Microsoft 365 administration
