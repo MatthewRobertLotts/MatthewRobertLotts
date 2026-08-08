@@ -1,42 +1,36 @@
 # Matthew Lotts
 
-## Technical Profile
+AI-focused automation developer building internal tools, APIs, and workflow systems.
 
-Application Support Lead with a strong automation, systems, scripting, SQL, Microsoft cloud, and AI-assisted development background.
+I turn messy operational problems into working software: Microsoft 365 automation, SQL-backed tools, FastAPI services, Flutter frontends, and AI-assisted workflows.
 
-I specialise in turning messy operational problems into reliable tools, scripts, workflows, and supportable systems. My strength is the full path from user problem to working fix: understand the process, trace the failure, automate the repeatable parts, document the result, and keep it maintainable.
+## Proof
 
-## AI and Automation Focus
+- Reduced a 32TB Microsoft 365 estate from 98% to 64% utilisation using PowerShell, Graph API, Entra ID certificate auth, and batch monitoring.
+- Built the SaveRoom Pokémon TCG API: multilingual card search, pricing, inventory, listings, auth, OpenAPI, and test coverage.
+- Building the SaveRoom Flutter scanner and collection app that consumes the API and supports card lookup, pricing, and seller workflows.
 
-I have spent the last year working heavily with AI tooling, coding agents, local models, hosted APIs, and AI-assisted application development. I use AI practically: not as a novelty, but as a way to speed up investigation, generate and review code, automate workflows, analyse data, and build working tools faster.
+## Current focus
 
-## Core Strengths
+AI application development roles where the work is practical: build the tool, connect the data, automate the workflow, document the result, and keep it maintainable.
 
-- AI-assisted software development and workflow automation
-- PowerShell scripting for Microsoft 365, Azure, Entra, and tenant-wide administration
-- SQL solution design, deployment support, and data-led troubleshooting
-- JavaScript, HTML, and form/workflow development
-- Financial automation support and maintenance across enterprise systems
-- Business process analysis, root-cause troubleshooting, and incident ownership
-- Technical documentation, user support, and process improvement
-- Broad creative technical background across 3D, game engines, media, special effects, and hardware projects
+## Main projects
 
-## Current Work
+| Project | What it shows |
+|---|---|
+| [M365 Storage Optimiser](https://github.com/MatthewRobertLotts/m365-storage-optimiser) | PowerShell, Graph API, Entra ID auth, operational automation, measurable business impact |
+| [SaveRoom Pokémon Card Database API](https://github.com/MatthewRobertLotts/SaveRoom-Pokemon-Database-API) | FastAPI, SQLite, OpenAPI, auth, pricing data, inventory workflows, tests |
+| [SaveRoom Scanner App](https://github.com/MatthewRobertLotts/SaveRoom-Scanner-App) | Flutter frontend, API integration, fixture-driven development, mobile app UX |
 
-Application Support Lead in local government, supporting and improving business-critical systems and automations.
+## Technical range
 
-Current work includes maintaining financial automations, creating SQL-backed solutions, scripting against Microsoft cloud services, supporting GOSS forms, handling administration and service requests, and improving workflows used across the organisation.
+- **AI tooling:** coding agents, local models, hosted model APIs, prompt/workflow design
+- **Backend:** Python, FastAPI, REST APIs, SQLite, OpenAPI
+- **Frontend/app:** Flutter, Dart, HTML, CSS, JavaScript, TypeScript
+- **Automation:** PowerShell, Microsoft Graph, Entra ID, Microsoft 365 administration
+- **Data:** SQL, reporting, data modelling, operational analytics
+- **Delivery:** Git, GitHub, CI, technical documentation, supportable handover notes
 
-## Technical Range
+## How I work
 
-- **AI tooling:** Claude Code, Hermes, local models, hosted model APIs, coding agents, prompt/workflow design
-- **Scripting and automation:** PowerShell, JavaScript, Python
-- **Microsoft ecosystem:** Microsoft 365, Azure, Entra, tenant administration
-- **Web and forms:** HTML, JavaScript, GOSS forms
-- **Data:** SQL, SQLite, reporting, data modelling
-- **Development:** TypeScript, Dart, Flutter, FastAPI, REST APIs, Git, GitHub
-- **Creative technical:** game design, 3D modelling, engine work, music/video editing, special effects, hardware builds
-
-## Focus
-
-I am aiming my work toward AI-enabled development and automation roles: building practical internal tools, improving business systems, reducing manual work, and using AI to deliver faster without losing quality, security, or maintainability.
+Root-cause first. Smallest working change. Boring systems that survive handover.
